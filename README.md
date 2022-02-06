@@ -30,3 +30,7 @@ A criação desse sistema visa a extensão da “Pasta Z”, uma rede compartilh
 <img src="https://s10.gifyu.com/images/8484.gif" align="middle" alt="materias">
 
 >Na tela principal (Home), o usuário pode escolher seu respectivo ciclo, tendo acesso a todos os cursos disponibilizados na faculdade. Logo após, é possível ver as meterias do curso previamente escolhido.
+
+<img src="https://s10.gifyu.com/images/gif-uploaddd7c849f78ac984f.gif" align="center" alt="materias">
+
+>Na tela de materias, o usuário pode escolher listar todo conteúdo que já foi enviado, assim como, fazer upload de novos arquivos.
