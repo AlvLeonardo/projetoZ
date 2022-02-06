@@ -12,7 +12,7 @@ Devido ao período de quarentena em que vivemos, ocasionado pela Covid-19 (doen�
 
 ## Objetivo
 
-A criação desse sistema visa a extensão da “Pasta Z”, uma rede compartilhada, utilizada pela Faculdade de Tecnologia de Botucatu, onde todas os matérias dos cursos vigentes na faculdade eram dispostos em uma pasta na rede local. O objetivo do trabalho é complementar essa ideia, extendendo-o para uma versão web, que pode ser acessada de qualquer dispositivo por meio de um login e senha, disponibilizados previamente ao usuário, assim o mesmo terá acesso a todos os materiais. Os professores serão designados para incersão dos materiais em suas respectivas matérias, cursos e ciclos.
+A criação desse sistema visa a extensão da “Pasta Z”, uma rede compartilhada, utilizada pela Faculdade de Tecnologia de Botucatu, onde todas as matérias dos cursos vigentes na faculdade eram dispostas em uma pasta na rede local. O objetivo do trabalho é complementar essa ideia, extendendo-o para uma versão web, que pode ser acessada de qualquer dispositivo por meio de um login e senha, disponibilizados previamente ao usuário, assim o mesmo terá acesso a todos os materiais. Os professores serão designados para incersão dos materiais em suas respectivas matérias, cursos e ciclos.
 
 ## Ferramentas utilizadas
 
