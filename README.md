@@ -26,5 +26,7 @@ A criação desse sistema visa a extensão da “Pasta Z”, uma rede compartilh
     git clone https://github.com/AlvLeonardo/projetoZ
 
 # Utilização
->Escolha de materias
+
 <img src="https://s10.gifyu.com/images/8484.gif" align="middle" alt="materias">
+
+>Na tela principal (Home), o usuário pode escolher seu respectivo ciclo, tendo acesso a todos os cursos disponibilizados na faculdade. Logo após, é possível ver as meterias do curso previamente escolhido.
