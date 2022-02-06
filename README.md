@@ -16,8 +16,8 @@ A criação desse sistema visa a extensão da “Pasta Z”, uma rede compartilh
 
 ## Ferramentas utilizadas
 
-* [Google Firebase](https://firebase.google.com/)
-* [HTML](https://devdocs.io/html/)
-* [CSS](https://devdocs.io/css/)
-* [JavaScript](https://devdocs.io/javascript/)
-* [Bootstrap](https://getbootstrap.com)
+* [Google Firebase](https://firebase.google.com/) <img align="center" alt="firebase" height="30" width="30" src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg">
+* [HTML](https://devdocs.io/html/) <img align="center" alt="html" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg">
+* [CSS](https://devdocs.io/css/) <img align="center" alt="html" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg">
+* [JavaScript](https://devdocs.io/javascript/) <img align="center" alt="html" height="25" width="25" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg">
+* [Bootstrap](https://getbootstrap.com) <img align="center" alt="html" height="30" width="30" src="https://www.logo.wine/a/logo/Bootstrap_(front-end_framework)/Bootstrap_(front-end_framework)-Logo.wine.svg">
