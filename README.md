@@ -22,7 +22,7 @@ A criação desse sistema visa a extensão da “Pasta Z”, uma rede compartilh
 * [JavaScript ](https://devdocs.io/javascript/) <img align="center" alt="html" height="25" width="25" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg">
 * [Bootstrap](https://getbootstrap.com) <img align="center" alt="html" height="30" width="30" src="https://www.logo.wine/a/logo/Bootstrap_(front-end_framework)/Bootstrap_(front-end_framework)-Logo.wine.svg">
 
-### Clonar repositório
+## Clonar repositório
     git clone https://github.com/AlvLeonardo/projetoZ
 
 # Utilização
