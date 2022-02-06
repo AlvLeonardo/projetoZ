@@ -4,7 +4,7 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/alvleonardo/projetoz?color=%237b5e8c&label=Last%20Commit)
 ![GitHub language count](https://img.shields.io/github/languages/count/alvleonardo/projetoz?color=%23ff6f00)
 
-<img src="https://s10.gifyu.com/images/Projeto-Z-GIFf37b26e3e89bc15c.gif" align="middle" alt="projetoz imagem" width="1000" height="250">
+<h1 align='center'><img src="https://s10.gifyu.com/images/Projeto-Z-GIFf37b26e3e89bc15c.gif"></h1>
 
 ## Contexto
 
@@ -17,8 +17,8 @@ A criação desse sistema visa a extensão da “Pasta Z”, uma rede compartilh
 ## Ferramentas utilizadas
 
 * [Google Firebase](https://firebase.google.com/) <img align="center" alt="firebase" height="30" width="30" src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg">
-* [HTML](https://devdocs.io/html/) <img align="center" alt="html" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg">
-* [CSS](https://devdocs.io/css/) <img align="center" alt="html" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg">
+* [HTML](https://devdocs.io/html/) <img align="center" alt="html" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+* [CSS](https://devdocs.io/css/) <img align="center" alt="html" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 * [JavaScript ](https://devdocs.io/javascript/) <img align="center" alt="html" height="25" width="25" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg">
 * [Bootstrap](https://getbootstrap.com) <img align="center" alt="html" height="30" width="30" src="https://www.logo.wine/a/logo/Bootstrap_(front-end_framework)/Bootstrap_(front-end_framework)-Logo.wine.svg">
 
@@ -31,6 +31,6 @@ A criação desse sistema visa a extensão da “Pasta Z”, uma rede compartilh
 
 >Na tela principal (Home), o usuário pode escolher seu respectivo ciclo, tendo acesso a todos os cursos disponibilizados na faculdade. Logo após, é possível ver as meterias do curso previamente escolhido.
 
-<img src="https://s10.gifyu.com/images/gif-uploaddd7c849f78ac984f.gif" align="center" alt="materias">
+<img src="https://s10.gifyu.com/images/gif-uploaddd7c849f78ac984f.gif">
 
 >Na tela de materias, o usuário pode escolher listar todo conteúdo que já foi enviado, assim como, fazer upload de novos arquivos.
