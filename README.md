@@ -24,3 +24,7 @@ A criação desse sistema visa a extensão da “Pasta Z”, uma rede compartilh
 
 ### Clonar repositório
     git clone https://github.com/AlvLeonardo/projetoZ
+
+# Utilização
+>Escolha de materias
+<img src="https://s10.gifyu.com/images/8484.gif" align="middle" alt="materias">
